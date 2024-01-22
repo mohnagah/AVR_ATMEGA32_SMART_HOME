@@ -29,6 +29,7 @@
 - You can start from the APP_config.h file to configure your app.
 
 ### schematic 
-![image](https://github.com/mohnagah/AVR_ATMEGA32_SMART_HOME/assets/157398651/a6460d34-b495-48c9-b2b4-08b1c17f631c)
+![image](https://github.com/mohnagah/AVR_ATMEGA32_SMART_HOME/assets/157398651/d08bb392-2458-4c9a-b35e-fed113eeedac)
+
 
   
