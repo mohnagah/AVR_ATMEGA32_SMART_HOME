@@ -2,7 +2,8 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Usage](#usage)
-* [schematic](#schematic)
+* [Schematic](#Schematic)
+* [Video](#Video)
 
 ### General Information
 - Enter your password to enter the house.
@@ -28,8 +29,9 @@
 
 - You can start from the APP_config.h file to configure your app.
 
-### schematic 
+### Schematic 
 ![image](https://github.com/mohnagah/AVR_ATMEGA32_SMART_HOME/assets/157398651/d08bb392-2458-4c9a-b35e-fed113eeedac)
 
 
-  
+### Video 
+https://drive.google.com/file/d/1KXDlT9AmVmeBjdiJi253YN4EDNGexhWq/view?usp=drive_link
