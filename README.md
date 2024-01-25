@@ -8,7 +8,7 @@
 ### General Information
 - Enter your password to enter the house.
 - If successful, the message "Access is Authorized ^_^, Welcome to your Smart Home" will appear on the LCD and the door will open.
--If wrong, try again (only three attempts are permitted). After that, the buzzer will beep, and the LCD will display "Access is denied!"
+- If wrong, try again (only three attempts are permitted). After that, the buzzer will beep, and the LCD will display "Access is denied!"
 - After entering the correct password, the user can accomplish the following:
     * Turn the air conditioner on and off.
     * Monitor the house's temperature (visible on LCD).
